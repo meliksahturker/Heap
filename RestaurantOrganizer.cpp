@@ -1,9 +1,4 @@
 /*
-Student Name: Meliksah Turker
-Student Number: 2019700120
-Project Number: 2
-Compile Status: [SUCCESS]
-Running Status: [SUCCESS]
 Notes: The troublesome parts were tracking the table number during percolateUp and percolateDown processes. I carried out this
  by implementing a 2D Array (Matrix). Another and last troublesome part was handling the cases where tableCapacities were equal
  and I had to check for tableNumbers. This especially has been troublesome during percolateDown, specifically a case that I forgot,
